@@ -1,5 +1,5 @@
 [build]
-  command = 'git config core.quotepath false && hugo --verbose --baseURL "$URL"'
+  command = "hugo --gc --minify"
   publish = "public"
 
 [build.environment]
