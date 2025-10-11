@@ -1,5 +1,4 @@
 [build]
-[build]
   command = 'git config core.quotepath false && hugo --verbose --baseURL "$URL"'
   publish = "public"
 
