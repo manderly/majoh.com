@@ -1,13 +1,11 @@
-[build.environment]
-DART_SASS_VERSION = "1.93.2"
-GO_VERSION = "1.25.1"
-HUGO_VERSION = "0.151.0"
-NODE_VERSION = "22.18.0"
-TZ = "Europe/Oslo"
-
 [build]
 publish = "public"
-command = """\
-  git config core.quotepath false && \
-  hugo --gc --minify --baseURL "${URL}"
-  """
+command = "git config core.quotepath false && hugo --gc --minify --baseURL \"$URL\""
+
+[build.environment]
+HUGO_VERSION = "0.151.0"
+HUGO_EXTENDED = "true" # Required if your theme uses SCSS/SASS
+NODE_VERSION = "22.18.0"
+GO_VERSION = "1.25.1"
+DART_SASS_VERSION = "1.93.2"
+TZ = "Europe/Oslo"
