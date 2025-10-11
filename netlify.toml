@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "git config core.quotepath false && hugo --gc --minify --baseURL \"$URL\""
+command = "git config core.quotepath false && hugo --verbose --baseURL \"$URL\""
 
 [build.environment]
 HUGO_VERSION = "0.151.0"
