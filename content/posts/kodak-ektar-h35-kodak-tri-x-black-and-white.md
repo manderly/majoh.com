@@ -1,6 +1,6 @@
 +++
 date = '2025-10-11T14:34:59-05:00'
-draft = true
+draft = false
 title = 'Kodak Ektar H35 Kodak with Tri-X 400 Black and White'
 +++
 
