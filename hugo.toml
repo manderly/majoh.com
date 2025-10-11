@@ -6,3 +6,6 @@ theme = 'hyde'
 [params]
   themeColor = "theme-base-0d"
   description = 'Film photography (and sometimes digital)'
+
+[build.environment]
+  HUGO_VERSION = "0.151.0"
