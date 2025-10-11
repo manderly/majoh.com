@@ -11,6 +11,10 @@ theme = ["github.com/spf13/hyde"]
   themeColor = "theme-base-0d"
   description = 'Film photography (and sometimes digital)'
 
+[params.meta]
+    favicon = true
+    faviconVersion = "3"
+
 [build.environment]
   HUGO_VERSION = "0.151.0"
 
