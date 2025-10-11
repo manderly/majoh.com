@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'majoh.com'
+theme = 'hyde'
+
+[params]
+  themeColor = "theme-base-0d"
+  description = 'Film photography (and sometimes digital)'

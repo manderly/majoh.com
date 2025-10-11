@@ -1,0 +1,21 @@
+.sidebar-about h1 {
+    font-size: 2rem;
+    font-family: serif;
+}
+
+.theme-base-0d .sidebar {
+    background: #181c1f;
+}
+
+body {
+    background-color: #000;
+    color: #c1c4c7;
+}
+
+.lead {
+    color: #c1c4c7;
+}
+
+h1, strong {
+    color: lightblue;
+}
