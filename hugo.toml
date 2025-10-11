@@ -9,3 +9,7 @@ theme = 'hyde'
 
 [build.environment]
   HUGO_VERSION = "0.151.0"
+
+[module]
+    [[module.imports]]
+        path = 'github.com/spf13/hyde'
