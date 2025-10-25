@@ -4,13 +4,13 @@ draft = false
 title = 'Portra 160 in the Kodak Ektar H35: an expensive film in an inexpensive camera'
 +++
 
-Continuing my mission of feeding my Kodak Ektar H35 with a varied diet of film stocks, I put a roll of Portra 160 through it this summer. The results show bold reds and rosy skin tones, beautiful scenery and skies, and greenish shadows. Like all film stocks in the Ektar H35, the best results came from shooting in bright daylight. 
+Continuing my mission of feeding my Kodak Ektar H35 with a varied diet of film stocks, I put a roll of Portra 160 through it this summer because I have a 5-pack of Portra 160 and was feeling like I could handle the risk of them all being duds. The results show bold reds and rosy skin tones, beautiful scenery and skies, and greenish shadows. Like all film stocks in the Ektar H35, the best results came from shooting in bright daylight. 
 
 While I love many of these shots, I think this particular film in this particular camera was not an ideal match. Many shots, even outdoors, were simply underexposed due to cloudiness or less than ideal lighting. The honor of "my favorite film to put in the Kodak half frame" [still belongs to Tri-X 400](/posts/kodak-ektar-h35-kodak-tri-x-black-and-white/).
 
 **Camera:** [Kodak Ektar H35 half-frame - amazon.com](https://amzn.to/3J01D0e)
 
-**Film:** Portra 160
+**Film:** [Kodak Portra 160 - amazon.com](https://amzn.to/3Jw93sh)
 
 **Development and scanning** [The Darkroom](https://thedarkroom.com). 
 
