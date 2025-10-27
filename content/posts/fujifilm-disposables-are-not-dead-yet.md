@@ -15,16 +15,16 @@ Despite all these drawbacks, the humble disposable camera still has something un
 I shot two Fujifilm disposable cameras over the spring/summer of 2025. I sent one camera to Walgreen's photo lab and one camera to [The Darkroom](https://thedarkroom.com). All sample pics are unedited, straight out of the camera.
 
 Dawn at the local nature preserve (thedarkroom.com)
-![Fujifilm Disposable Sample image 1](/img/fujifilm-disposable/scenery-shot.jpg)
+![Fujifilm Disposable Sample image 1](/img/2025-fujifilm-disposable/scenery-shot.jpg)
 
 Kids at the park (thedarkroom.com)
-![Fujifilm Disposable Sample image 2](/img/fujifilm-disposable/swings.jpg)
+![Fujifilm Disposable Sample image 2](/img/2025-fujifilm-disposable/swings.jpg)
 
 I love this photo, but the pink tint is inaccurate to the environment. I enjoy these imperfections of the film medium and accept them as part of the fun (Walgreens photo)
-![Fujifilm Disposable Sample image 3](/img/fujifilm-disposable/kiddos.jpg)
+![Fujifilm Disposable Sample image 3](/img/2025-fujifilm-disposable/kiddos.jpg)
 
 This one is almost indistinguishable from photos I took at various theme parks in the 1990s. 
-![Fujifilm Disposable Sample image 4](/img/fujifilm-disposable/roller-coaster.jpg)
+![Fujifilm Disposable Sample image 4](/img/2025-fujifilm-disposable/roller-coaster.jpg)
 
 **Who developed it better?**
 Definitely [The Darkroom](https://thedarkroom.com), and I appreciate that they sent me my negatives back. Walgreens does not return your negatives, so you're stuck with whatever scans they produce. (For that reason alone I won't bring a disposable to Walgreens in the future even though they were significantly less expensive than The Darkroom. I strongly prefer having my negatives.)
