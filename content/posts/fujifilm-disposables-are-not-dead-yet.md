@@ -32,8 +32,13 @@ Definitely [The Darkroom](https://thedarkroom.com), and I appreciate that they s
 **Thoughts on the experience**
 Carrying a disposable camera for the first time in like 25 years was definitely different. I had to carry a larger bag than I would have otherwise, and I had to be mindful of its delicate lens. I've gotten very used to just whipping my phone out and taking candid shots, but with the disposable I found I had to be a lot more careful and deliberate.
 
-The photos have an undeniable charm, though, and I find myself looking at them longer, and more often, than snapshots from my phone. There is something more special and tangible about them. 
+The photos have an undeniable charm, though, and I find myself looking at them longer, and more often, than snapshots from my phone. There is something special and tangible about them.  
 
-My happiness with the results from these two disposable cameras inspired me to buy a [Kodak Ektar H35](https://amzn.to/3J01D0e), which is a lot like a reusable disposable that also takes 72 "half frame" pics instead of the standard "full frame" 36, which I proceeded to shoot multiple rolls of film in over the summer (see other posts on this blog).
+I especially like how the indoor shots turned out (flash was a necessity - the indoor shots I took without flash are just pure grain).
+![Fujifilm Disposable sample image indoors with flash](/img/2025-fujifilm-disposable/indoor-shot-fujifilm-disposable.jpg)
+
+Unfortunately, I also caught my finger in a surprising number of the shots. The camera is small and I am clumsy. 
+
+But overall, I loved the results. My happiness with the pics from these two disposable cameras inspired me to buy a [Kodak Ektar H35](https://amzn.to/3J01D0e), which is a lot like a reusable disposable that also takes 72 "half frame" pics instead of the standard "full frame" 36, which I proceeded to shoot multiple rolls of film in over the summer (see the other posts on this blog dated ~2025).
 
 _Disclosure: As an Amazon Associate I earn from qualifying purchases at no additional cost to you._ 
