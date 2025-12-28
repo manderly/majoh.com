@@ -1,7 +1,7 @@
 +++
 date = '2025-12-25T10:00:00-01:00'
 draft = false
-title = 'Review: Walking Way mist filter for CampSnap Pro'
+title = 'Review: Walking Way mist filter on a CampSnap Pro'
 +++
 
 ![CampSnap Pro with mist filter, hero image](/img/2025-campsnap-pro-mist-filter/campsnap-pro-mist-hero.jpg)
