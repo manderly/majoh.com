@@ -16,6 +16,6 @@ body {
     color: #c1c4c7;
 }
 
-h1, strong {
+h1, h2, h3, strong {
     color: lightblue;
 }
