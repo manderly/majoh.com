@@ -3,6 +3,7 @@ date = '2025-10-11T14:34:59-05:00'
 draft = false
 title = 'Kodak Ektar H35 with Kodak Tri-X 400 Black and White'
 +++
+![Tri X in Ektar H35](/img/2025-kodak-ektar-tri-x/tri-x-hero.jpg)
 
 I can't believe how good these turned out. Of all the film + camera combos I shot this summer, **Kodak Tri-X** in the **Ektar half frame** are my favorite. 
 
