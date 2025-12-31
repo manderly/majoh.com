@@ -6,9 +6,9 @@ title = 'Review: Walking Way mist filter on a CampSnap Pro'
 
 ![CampSnap Pro with mist filter, hero image](/img/2025-campsnap-pro-mist-filter/campsnap-pro-mist-hero.jpg)
 
-One of the best things about the CampSnap Pro is you can attach a threaded filter to it and get a cool, most customized effect on your photos. 
+CampSnap Pro has a 37mm threaded mount around its lens which lets you attach filters for a unique look. Typically, I just want whatever comes out of the camera (I'm not really into tweaking my pics after the fact with Photoshop) so attaching physical filters and choosing between vintage and black and white digital filters on the camera itself is right up my alley.
 
-Here is the exact filter I purchased in November 2025 and shot these photos with: [Walking Way 37mm Soft Focus Filter](https://amzn.to/48WovIb) This filter creates a very soft and dreamy effect that I found very fun to experiment with. Be sure to get it in 37mm size if you intend to put it on a CampSnap Pro.
+Here is the exact filter I shot these photos with: [Walking Way 37mm Soft Focus Filter](https://amzn.to/48WovIb) This filter creates a very soft and dreamy effect that I found very fun to experiment with. Be sure to get it in 37mm size if you intend to put it on a CampSnap Pro.
 
 ## Sample photos: CampSnap Pro + Mist filter
 
