@@ -3,25 +3,33 @@ date = '2025-11-01T10:00:00-01:00'
 draft = false
 title = 'Review: CampSnap v105 a digital camera that emulates what we love about film'
 +++
-![CampSnap v105 hero](/img/2025-campsnap-summer/campsnap-hero.jpg)
+![CampSnap v105 hero](/img/2025-campsnap-summer/campsnap-hero-2.jpg)
 
-I picked up a CampSnap on a whim and thought it would be a cool toy, but it quickly became part of my everyday bag. It's fun. You shoot without worrying about perfection. Like film, you get to be pleasantly surprised later when you review the pics at home. You live in suspense until then, wondering if you got the shot. 
+I picked up a CampSnap on a whim and thought it would be a cool toy, but it quickly became part of my everyday bag. It's fun. You shoot without worrying about perfection. Like film, you get to be pleasantly surprised later when you review the pics at home. You live in suspense until then, wondering if you got the shot.
+
+![CampSnap v105 hero](/img/2025-campsnap-summer/campsnap-hero-1.jpg)
 
 The filters are fun, too. Some of them even look sorta halfway like the film photos I remember from my childhood. 
 
-I mostly shot with whatever the fine people over at r/campsnap were sharing, but I also tried making my own. 
+I mostly shot with whatever the fine people over at r/campsnap were sharing, but I also tried making my own (available for free at the end of this post).
+
+**Camera:** [CampSnap v105 - Official Site](https://www.campsnapphoto.com/)
+
+**Film:** Digital; comes with its own memory card 
+
+**Accessories:** My CampSnap has [this wrist strap](https://amzn.to/45obRPT) from Amazon; it fits my hand better than others I tried
 
 ## Sample photos: CampSnap v105 summer 2025
 All images straight out of camera. Any flaws in composition are my own. :P 
 
-"Expired" filter - from [campshades.com](https://www.campshades.com/shop/essentials-collection)  
-![CampSnap Sample image 1](/img/2025-campsnap-summer/campsnap-car.jpg)
+These photos were taken with the "Expired" filter from [campshades.com](https://www.campshades.com/shop/essentials-collection) This is by far my favorite filter for CampSnap and probably my default at this point. 
+![CampSnap v105 hero](/img/2025-campsnap-summer/campsnap-hero.jpg)
+ 
+![CampSnap Sample image 1](/img/2025-campsnap-summer/campsnap-outdoors-1.jpg)
 
 ![CampSnap Sample image 2](/img/2025-campsnap-summer/campsnap-expired.jpg)
 
-![CampSnap Sample image 3](/img/2025-campsnap-summer/outdoors-expired.jpg)
-
-I also tried my hand at creating my own filter, which I named "Memorare" after one of my favorite songs by The Cruxshadows. I was aiming for "warm" and got "pink", but I like it, and I enjoyed the experimentation. 
+I did try my hand at creating my own filter, which I named "Memorare" after one of my favorite songs by The Cruxshadows. I was aiming for "warm" and got "pink", but I like it, and I love how the camera gives you the option to make your own.  
 
 ![CampSnap image memorare 1](/img/2025-campsnap-summer/campsnap-bike-memorare.jpg)
 
