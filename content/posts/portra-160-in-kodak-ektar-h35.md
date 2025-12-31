@@ -1,8 +1,9 @@
 +++
-date = '2025-10-25T09:30:00-05:00'
+date = '2025-09-05T09:30:00-05:00'
 draft = false
 title = 'Portra 160 in the Kodak Ektar H35: an expensive film in an inexpensive camera'
 +++
+![Portra 160 Kodak Ektar H35 Hero image](/img/2025-portra-160-ektar-h35/portra-160-kodak-ektar-h35-hero.jpg)
 
 Continuing my mission of feeding my Kodak Ektar H35 with a varied diet of film stocks, I put a roll of Portra 160 through it this summer because I have a 5-pack of Portra 160 and was feeling like I could handle the risk of them all being duds.
 
