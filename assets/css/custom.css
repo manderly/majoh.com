@@ -19,3 +19,11 @@ body {
 h1, h2, h3, strong {
     color: lightblue;
 }
+
+.max-width-img {
+  max-width: 666px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}

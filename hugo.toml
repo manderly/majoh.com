@@ -9,7 +9,7 @@ theme = ["github.com/spf13/hyde"]
 
 [params]
   themeColor = "theme-base-0d"
-  description = 'Film photography (and sometimes digital)'
+  description = 'Photography minus the phone'
 
 [params.meta]
     favicon = true
