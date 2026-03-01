@@ -15,7 +15,7 @@ My goal was to create a digital archive of my family's photos, and while I was a
 
 The end result: many GB of photos organized by roll, uploaded to Google photos, burned to DVD, with film stored in archival sleeves and binders. I also left detailed typed documentation with the film describing who is in the photos, how to access the digital copies, and how to do this workflow. 
 
-I have shared my process here in hopes that it helps someone else take on this kind of project! It wasn't hard, just very time consuming and repetitive. 
+I have shared my process here in hopes that it helps someone else take on this kind of project! It wasn't hard, just very time-consuming and repetitive. 
 
 ## Overall workflow
 
@@ -169,6 +169,10 @@ Some disc scans, as examples of the quality you might expect from this process:
 
 ![Film formats](/img/2026-film-digitizing-project/disc-example-3.jpg)
 
+And then, due to the way these images were quickly batched out into files by Photoshop, they effectively had such similar timestamps that Google Photos couldn't reliably sort them by timestamp. I'm a stickler for sort order, so I sought help on the interwebs and found this extremely helpful article: [Fix Google Photos Sort Order - Pasko's Rants](https://www.pasko.net/wordpress/2020/11/08/fix-google-photos-sort-order/)
+
+(Perhaps I will add the steps here someday; but for now, the algorithm is basically: use a script to edit the exif data on the batched photos so their creation dates are spaced out by 1 second, then upload to Google)
+
 # Scanner dust
 
 Dust accumulated like crazy during this project. The scanner comes with a dust cleaning tool but eventually the scanner accumulated a numbe of spots and specks that I can't quite seem to get with the tool. They now appear as darker blobs that you can see in this gif comparing "before dust cleaning" to "after dust cleaning". 
@@ -192,31 +196,26 @@ Me practicing my flying:
 My dad caught this Concorde taking off in 1980:
 ![Film formats](/img/2026-film-digitizing-project/concorde-takeoff.jpg)
 
-In any case, it's satisfying to have everything digitized and organized.
-
-## Why do this?
+### Why do this?
 
 I asked myself this question a lot during this project. It was forever-taking and tedious and I periodically had to re-motivate myself.
-* A natural disaster (or a “decluttering project") would wipe out every photo my family took before 2001, which is like 50 years of photos
+
+* A natural disaster (or a “decluttering project") would wipe out every photo my family took before 2001, which is nearly 50 years of photos
 * The photos are hard to share in their current “print only” form (if we even have prints of them)
 
-### Ok but why do it now?
+### Ok, but why do it now?
 
 * My parents are both still able to answer questions about the photos
 * It’s too cold to ride my bike (one of the secrets to enjoying life in the US Midwest is to have a robust selection of “indoor hobbies” to do during the winter)
 
+### Why not send them to a service?
 
-There's no sugar-coating it: this was a slog. I spent hours of evenings and weekends on this, and it felt endless. If you're scanning thousands of negatives, you'll want to organize your work in a way that lets you take breaks and not lose your place.  
+I wanted iron-clad control over how they were organized, both digitally and physically. I also felt it would be more expensive than doing it myself and possibly risky (what if the photos get lost?!). 
 
-I was the perfect person for this job because I am:
+## In conclusion 
 
-* Willing to devote my free time to absolute tedium
-* Capable of sticking with the project for many weeks
-* Totally fine with purchasing scanners, archival sleeves, adapters, binders, etc. as needed to get the project done
-* Great at organizing stuff and optimizing my processes
-* Still able to recognize most of the people and places in the photos
-* Proficient at digital organization, Google Photos, and (eventually) burning it all to archival DVDs
-
-No one else in my family can check ALL these boxes - yay, job security
+There's no sugar-coating it, though: this was a slog. I spent hours of evenings and weekends on this, and it felt endless. If you're scanning thousands of negatives, you'll want to organize your work in a way that lets you take breaks and not lose your place.
 
 Realistically, I think these photos are probably only interesting/valuable to two more generations at most, so I focused my effort on building something neatly packaged that I could hand to my kids someday.
+
+In any case, it's satisfying to have everything digitized and organized!
