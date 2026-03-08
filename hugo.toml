@@ -15,6 +15,15 @@ theme = ["github.com/spf13/hyde"]
     favicon = true
     faviconVersion = "3"
 
+[menu]
+  [[menu.main]]
+    name = "Disclosure"
+    url = "/affiliate-disclosure/"
+  [[menu.main]]
+    name = "Archives"
+    url = "/archives.html"
+
+mainSections = ["posts"] # list any other content types to include
+
 [build.environment]
   HUGO_VERSION = "0.151.0"
-

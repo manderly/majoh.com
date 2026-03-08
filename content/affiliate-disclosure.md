@@ -1,6 +1,7 @@
 +++
 title = "Affiliate Disclosure"
 draft = false
+layout = "page"
 +++
 
 This website contains Amazon affiliate links. If you click on these links and make a purchase, I may earn a commission at no additional cost to you.

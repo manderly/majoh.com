@@ -17,7 +17,7 @@ body {
 }
 
 h1, h2, h3, strong {
-    color: lightblue;
+    color: white;
 }
 
 .max-width-img {
@@ -26,4 +26,16 @@ h1, h2, h3, strong {
   height: auto;
   display: block;
   margin: 0 auto;
+}
+
+.sidebar-nav li:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.sidebar-nav li:last-child a {
+  font-size: 0.85em;
+}
+
+.sidebar-nav a {
+  color: #6a9fb5;
 }
