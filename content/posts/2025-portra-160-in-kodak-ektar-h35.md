@@ -45,6 +45,4 @@ One more - I think this shot highlights some of the blurring that happens around
 
 **Thoughts on the experience**
 
-It's a solid film + camera combination, especially because the half-frame format lets you milk more shots out of the roll, but I felt limited to shooting it outdoors in ideal lighting due to the ISO 160. I think I'll save this pricey film stock for one of my cameras that offers better control over the exposure settings. 
-
-_Disclosure: As an Amazon Associate I earn from qualifying purchases at no additional cost to you._ 
+It's a solid film + camera combination, especially because the half-frame format lets you milk more shots out of the roll, but I felt limited to shooting it outdoors in ideal lighting due to the ISO 160. I think I'll save this pricey film stock for one of my cameras that offers better control over the exposure settings.

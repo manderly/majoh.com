@@ -49,5 +49,3 @@ Portra 160 + my Canon AT-1 was a satisfying experiment, especially any time huma
 My "duds" out of this roll tended to be mildly under- or overexposed, and that was usually the result of not taking enough time to compose the shot and adjust the camera's settings for the scene. Even the worst shots were ok, so I'll count that as a win in my "baby film photographer" book.
 
 This is a great film + camera combo. 
-
-_Disclosure: As an Amazon Associate I earn from qualifying purchases at no additional cost to you._

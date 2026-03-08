@@ -65,5 +65,3 @@ This one makes up for it, though.
 ![Fujifilm Disposable dawn photo](/img/2025-fujifilm-disposable/fence-trail.jpg)
 
 Overall, I loved the results. It wasn't a cheap experiment, though, so I ended up investing in a [Kodak Ektar H35](https://amzn.to/3J01D0e) to use going forward. This half-frame camera is a lot like a reusable disposable with the added advantage of taking 72 "half frame" pics instead of the standard "full frame" 36, so you get more photos out of each roll. I shot several more rolls of different film stocks on the half-frame over the course of 2025's summer (see the other posts on this blog).
-
-_Disclosure: As an Amazon Associate I earn from qualifying purchases at no additional cost to you._ 

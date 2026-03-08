@@ -32,5 +32,3 @@ Here is my first batch of Charmera pics, taken late '25.
 Absolutely! Take it with anywhere you go - it fits even in girl pockets. Take it to parties and pass it around the room. It's easy to use and the delayed gratification is part of the fun. I highly recommend it for artsy, low-stakes casual photography. 
 
 [Kodak Charmera on Amazon.com](https://amzn.to/40rzOmq)
-
-_Disclosure: As an Amazon Associate I earn from qualifying purchases at no additional cost to you._ 

@@ -40,5 +40,3 @@ Mist filter + lens cap on the CampSnap Pro together:
 [This link](https://amzn.to/48XX0Oz) goes to the lens cap pictured here that I use on my CampSnap Pro. Be sure to get it in 37mm, whether you plan to put it directly on your CampSnap Pro or stack it on top of a filter.
 
 I really like the results I get with the mist filter. It's not for every situation, but the soft bloom adds interest and softens the end result into something that doesn't feel so sharp the way digital photos tend to look. This was my first time shooting photos with any kind of filter, so now I'm curious to see what else is out there and possibly bring this same effect into some of my film photography. 
-
-_Disclosure: As an Amazon Associate I earn from qualifying purchases at no additional cost to you._ 

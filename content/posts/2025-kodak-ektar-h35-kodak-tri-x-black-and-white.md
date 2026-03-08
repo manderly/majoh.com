@@ -31,5 +31,3 @@ A secret garden!
 All photos shown here were developed by [The Darkroom](thedarkroom.com) in California. I highly recommend them. 
 
 I look forward to shooting this particular camera and film combo again very soon!
-
-_Disclosure: As an Amazon Associate I earn from qualifying purchases at no additional cost to you._ 

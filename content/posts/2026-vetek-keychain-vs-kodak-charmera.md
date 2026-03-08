@@ -101,5 +101,3 @@ They are both fun, though, and I'll definitely be taking both of them with me on
 [Kodak Charmera on Amazon.com](https://amzn.to/40rzOmq)
 
 [Vetek keychain camera on Amazon.com](https://amzn.to/4b4k4fn)
-
-_Disclosure: As an Amazon Associate I earn from qualifying purchases at no additional cost to you._ 
