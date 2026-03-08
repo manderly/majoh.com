@@ -64,6 +64,7 @@ Charmera's blown-out colors add just the right amount of crappy that I appreciat
 
 ### Indoor shots
 Woof. The Charmera produces a dark, noisy image in this scene lit only by a table lamp, but the early-2000s webcam aesthetic wins it nostalgia points. (The poor composition of the shot is on me.)
+
 ![Vetek vs Charmera indoors](/img/2026-charmera-vetek/vetek_charmera_indoors.jpg)
 
 Ok but Charmera really excels at this food shot. The orange chicken glistens and beckons, and the up-close bowl of panang curry is more in focus.  
